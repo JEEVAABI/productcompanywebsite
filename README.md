@@ -39,8 +39,14 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![output](./images/page1.png)
+### project page:
+![output](./images/page2.png)
+### people page:
+![output](./images/page3.png)
+### contactus page:
+![output](./images/page4.png)
 
-![output](./images/homepage.jpg)
 
 ## Result:
 
