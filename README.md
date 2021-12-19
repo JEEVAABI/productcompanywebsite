@@ -180,7 +180,7 @@ HOME PAGE
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>jeeva company</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -238,7 +238,7 @@ PRODUCT PAGE
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>jeeva company</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -358,7 +358,7 @@ PEOPLE PAGE
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>jeeva company</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -434,7 +434,7 @@ CONTACT US
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>jeeva company</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
