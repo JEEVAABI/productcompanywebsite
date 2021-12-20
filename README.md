@@ -1,8 +1,8 @@
-# Web Design for a Software Product Company
+# Web Design for a Product Company
 
 ## AIM:
 
-To design a static website for a software product company company.
+To design a static website for a local business.
 
 ## DESIGN STEPS:
 
