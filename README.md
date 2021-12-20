@@ -480,4 +480,4 @@ CONTACT US
 
 ## Result:
 
-Thus a website is designed for the software product company and the HTML,CSS code are validated.
+Thus a website is designed for the local business (BAKERY) and the HTML,CSS code are validated.
